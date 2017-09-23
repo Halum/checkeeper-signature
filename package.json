@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/Halum/checkeeper-signature#readme",
   "dependencies": {
-    "snakecase-keys": "^1.1.0"
   },
   "devDependencies": {}
 }
