@@ -1,6 +1,6 @@
 {
   "name": "checkeeper-signature",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This module helps to generate Checkeeper signature from a payload.",
   "main": "index.js",
   "scripts": {
