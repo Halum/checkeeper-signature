@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/Halum/checkeeper-signature#readme",
   "dependencies": {
+    "key-sort": "^0.0.3",
+    "lodash.clonedeep": "^4.5.0",
+    "object-to-associative-array": "^0.0.1"
   },
   "devDependencies": {}
 }
