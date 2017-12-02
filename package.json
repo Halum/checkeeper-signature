@@ -1,0 +1,29 @@
+{
+  "name": "checkeeper-signature",
+  "version": "0.0.1",
+  "description": "This module helps to generate Checkeeper signature from a payload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halum/checkeeper-signature.git"
+  },
+  "keywords": [
+    "checkeeper",
+    "checkeeper-signature"
+  ],
+  "author": "Sajjad Hossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Halum/checkeeper-signature/issues"
+  },
+  "homepage": "https://github.com/Halum/checkeeper-signature#readme",
+  "dependencies": {
+    "key-sort": "^0.0.3",
+    "lodash.clonedeep": "^4.5.0",
+    "object-to-associative-array": "^0.0.1"
+  },
+  "devDependencies": {}
+}
