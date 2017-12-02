@@ -20,9 +20,8 @@ NODE v0.8.0 or higher
 #### Output
 - Returns generated signature
 
-## Examples
+## Example
 
-##### Simple Sort
 ```javascript
 const checkeeperSignature = require('checkeeper-signature');
 
